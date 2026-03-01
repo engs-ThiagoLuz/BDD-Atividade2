@@ -1,0 +1,1 @@
+- A manutenção é dependente da máquina, se ela for removida então todas as outras manutenções associadas também serão removidas.
